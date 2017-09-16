@@ -1,5 +1,5 @@
-first name: 
-last name:  
-Pitt email address: 
-Peoplesoft ID number: 
-github account: 
+first name: Xinyue
+last name:  Guo
+Pitt email address: xig37@pitt.edu
+Peoplesoft ID number: 3997318
+github account: Gelsey615
